@@ -20,6 +20,8 @@ Fonts: Source Sans Pro and Spin-Cycle-OT (if you don't have them, they can be do
 
 **No Styles:** Focus only on the structure, no CSS or visual styling in this phase.
 
+## **Preview of Design**
+
 ![README](https://github.com/user-attachments/assets/ae267f5e-883e-45e8-9c29-43d75396c432)
 
 
