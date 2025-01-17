@@ -1,7 +1,7 @@
-#**Project Title: HTML Structure Implementation**
+##**Project Title: HTML Structure Implementation**
 
 
-#**Description**
+##**Description**
 This project involves building the HTML structure of a webpage based on a designer file provided on Figma. The focus is purely on semantic HTML—no CSS, no styles, just the layout and content in its most basic form.
 
 
