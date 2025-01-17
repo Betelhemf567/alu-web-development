@@ -16,3 +16,6 @@ Why CSS?
 While HTML provides structure, CSS adds style and enhances user experience. It allows us to create responsive designs and visually appealing pages that work across devices.
 ## **Conclusion**
 By the end of this project, you'll have styled a webpage using advanced CSS techniques, including layout control, responsive design, and interactive effects. Let's get started and bring your webpage to life with CSS!
+
+**Link to how our final project will look like**
+https://drive.google.com/file/d/1oUJCZGWPr19ELC-UvyH3vxcXP4xesHXO/view?usp=sharing
