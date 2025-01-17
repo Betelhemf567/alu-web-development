@@ -14,6 +14,8 @@ Figma Design: Access the design in Figma by creating an account and duplicating 
 
 Fonts: Source Sans Pro and Spin-Cycle-OT (if you don't have them, they can be downloaded from Figma).
 *Float values:* Feel free to round them for simplicity.
-*HTML Markup:* Create a clean and semantically correct HTML structure.
+
+
+**HTML Markup:**  Create a clean and semantically correct HTML structure.
 
 **No Styles:** Focus only on the structure, no CSS or visual styling in this phase.
